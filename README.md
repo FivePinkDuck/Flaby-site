@@ -1,2 +1,2 @@
 # Flaby-site
-first project (HTML CSS JS)
+first project (HTML SCSS JS)
